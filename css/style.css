@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+/*    Name    */
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+.console-container {
+  font-family:Khula;
+  font-size:4em;
+  text-align:center;
+  height:150px;
+  width:800px;
+  display:block;
+  color:black;
+  margin: auto;
+}
+.console-underscore {
+  display:inline-block;
+  position:relative;
+  top:-0.14em;
+  left:10px;
+}
