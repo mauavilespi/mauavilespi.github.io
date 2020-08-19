@@ -23,3 +23,9 @@
   top:-0.14em;
   left:10px;
 }
+
+/*    a    */
+.btn:focus,.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
